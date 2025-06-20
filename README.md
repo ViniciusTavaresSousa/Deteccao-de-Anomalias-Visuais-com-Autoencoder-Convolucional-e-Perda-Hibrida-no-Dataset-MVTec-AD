@@ -1,0 +1,2 @@
+# Deteccao-de-Anomalias-Visuais-com-Autoencoder-Convolucional-e-SSIM-no-Dataset-MVTec-AD
+Repositório com código para detecção de anomalias visuais usando Autoencoder Convolucional e função de perda híbrida (MSE + SSIM). Aplicado ao dataset MVTec AD (categoria bottle), o método destaca defeitos em imagens industriais com alta precisão, facilitando inspeção automática. Inclui pré-processamento, treinamento e visualização.
