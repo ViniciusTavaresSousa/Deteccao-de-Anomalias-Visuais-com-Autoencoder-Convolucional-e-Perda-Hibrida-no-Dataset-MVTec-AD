@@ -7,5 +7,4 @@ Repositório com código para detecção de anomalias visuais usando Autoencoder
 - Pré-processamento das imagens
 - Arquitetura do Autoencoder convolucional
 - Treinamento com função de perda híbrida (MSE + SSIM)
-- Avaliação quantitativa e qualitativa dos resultados
 - Visualização dos mapas de erro para detecção de defeitos
