@@ -24,3 +24,54 @@ O dataset MVTec AD contém imagens de 15 categorias diferentes de produtos indus
 
 As imagens devem estar organizadas conforme a estrutura abaixo na pasta `data/`:
 
+├── bottle
+│ ├── test
+│ │ ├── broken_large
+│ │ ├── broken_small
+│ │ ├── contamination
+│ │ └── good
+│ └── train
+│ └── good
+
+
+## Dependências
+
+As principais bibliotecas utilizadas neste projeto são:
+
+* `tensorflow >= 2.10`
+* `numpy >= 1.22`
+* `matplotlib`
+* `scikit-image` (para cálculo de SSIM)
+
+Consulte o arquivo `requirements.txt` para a lista completa.
+
+## Resultados
+
+<div align="center">
+
+### Exemplo - Imagem com defeito
+
+<img src="imgs/defeito_entrada.png" width="400" alt="Imagem com defeito"/>
+<img src="imgs/defeito_reconstrucao.png" width="400" alt="Reconstrução"/>
+<img src="imgs/defeito_mapa_erro.png" width="400" alt="Mapa de erro (1-SSIM)"/>
+
+### Exemplo - Imagem normal
+
+<img src="imgs/boa_entrada.png" width="400" alt="Imagem normal"/>
+<img src="imgs/boa_reconstrucao.png" width="400" alt="Reconstrução"/>
+<img src="imgs/boa_mapa_erro.png" width="400" alt="Mapa de erro (1-SSIM)"/>
+
+</div>
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE.md para detalhes.
+
+## Referências
+
+* Bergmann, Paul, et al. -- Improving unsupervised defect segmentation by applying structural similarity to autoencoders, 2018  
+* https://github.com/ViniciusTavaresSousa/Deteccao-de-Anomalias-Visuais-com-Autoencoder-Convolucional-e-SSIM-no-Dataset-MVTec-AD  
+* https://github.com/VainF/pytorch-msssim  
+
+</div>
+
