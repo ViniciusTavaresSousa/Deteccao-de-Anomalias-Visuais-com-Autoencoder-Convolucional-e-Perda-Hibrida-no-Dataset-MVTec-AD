@@ -18,7 +18,8 @@ Este projeto apresenta uma implementação simples de um Autoencoder Convolucion
 
 ## Dataset
 
-O dataset MVTec AD contém imagens de 15 categorias diferentes de produtos industriais com e sem defeitos. Este projeto foca na categoria \textit{bottle}, que possui imagens de alta resolução com defeitos variados, como \textit{broken\_large}, \textit{broken\_small} e \textit{contamination}.
+O dataset MVTec AD contém imagens de 15 categorias diferentes de produtos industriais com e sem defeitos. Este projeto foca na categoria *bottle*, que possui imagens de alta resolução com defeitos variados, como *broken_large*, *broken_small* e *contamination*.
+
 
 ### Estrutura de Diretórios
 
