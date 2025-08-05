@@ -24,14 +24,7 @@ O dataset MVTec AD contém imagens de 15 categorias diferentes de produtos indus
 
 As imagens devem estar organizadas conforme a estrutura abaixo na pasta `/content/drive/MyDrive/Autoencoder_MVTecAD/mvtec`:
 
-bottle
-├── train
-│   └── good        
-└── test
-    ├── broken_large
-    ├── broken_small
-    ├── contamination
-    └── good  
+<pre> ```text bottle ├── train │ └── good └── test ├── broken_large ├── broken_small ├── contamination └── good ``` </pre>
 
 ## Dependências
 
