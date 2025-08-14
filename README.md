@@ -65,10 +65,3 @@ As principais bibliotecas utilizadas neste projeto são:
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
-
-## Referências
-
-* https://github.com/ViniciusTavaresSousa/Deteccao-de-Anomalias-Visuais-com-Autoencoder-Convolucional-e-Perda-Hibrida-no-Dataset-MVTec-AD  
-
-</div>
-
