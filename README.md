@@ -40,7 +40,7 @@ bottle
 
 Você também pode carregar diretamente o arquivo `.npy` com as imagens pré-processadas (em escala de cinza e redimensionadas) da categoria *bottle*:
 
-🔗 [Download do dataset `bottle_dataset.npy` no Google Drive](https://drive.google.com/file/d/1e0pE247lPZv9-veQOlGr9qhkM4XUlS5A/view?usp=drive_link)
+🔗 [Download do dataset `bottle_dataset.npy` no Google Drive](https://drive.google.com/drive/folders/1WTsv4biJ8nTMDHalD5_1xbZCB3uhsJ4K?usp=sharing)
 
 ## Dependências
 
