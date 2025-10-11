@@ -55,10 +55,10 @@ As principais bibliotecas utilizadas neste projeto são:
 
 <div align="center">
 
-<img src="resultados/bottle_broken_large.png" width="400" alt="Bottle - Broken Large"/>
-<img src="resultados/bottle_broken_small.png" width="400" alt="Bottle - Broken Small"/>
-<img src="resultados/bottle_contamination.png" width="400" alt="Bottle - Contamination"/>
-<img src="resultados/capsule_crack.png" width="400" alt="Capsule - Crack"/>
+<img src="Resultados/bottle_broken_large.png" width="400" alt="Bottle - Broken Large"/>
+<img src="Resultados/bottle_broken_small.png" width="400" alt="Bottle - Broken Small"/>
+<img src="Resultados/bottle_contamination.png" width="400" alt="Bottle - Contamination"/>
+<img src="Resultados/capsule_crack.png" width="400" alt="Capsule - Crack"/>
 
 </div>
 
