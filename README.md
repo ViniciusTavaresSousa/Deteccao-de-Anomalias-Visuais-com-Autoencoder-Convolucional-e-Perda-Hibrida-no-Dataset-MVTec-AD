@@ -6,7 +6,6 @@
 
 [![python](https://img.shields.io/badge/python-3.11.13-green)]()
 [![tensorflow](https://img.shields.io/badge/tensorflow-2.18.0-orange)]()
-[![numpy](https://img.shields.io/badge/numpy-2.0.2-blue)]()
 
 ----------
 
